@@ -74,7 +74,7 @@ def about_us():
     st.write("""Karan Rekhan (AIML)""")
     st.write("""We are the first year students of Symbiosis Institute if technology""")
 
-    st.subheader('Contact US')
+    st.subheader('Contact Us')
     st.write('''Email: utkarsh.lakhani.btech2023@sitpune.edu.in''')
     st.write(''' LinkedIn: https://www.linkedin.com/in/utkarsh-lakhani/''')
     
